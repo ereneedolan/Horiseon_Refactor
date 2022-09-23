@@ -1,5 +1,13 @@
 # <Horiseon-Code-Refactor>
 
+## Deployed Site 
+
+[Deployed Site Here](https://ereneedolan.github.io/Horiseon_Refactor/)
+
+## Screenshot
+
+![Image Here](In the future put the URL of the screenshot here)
+
 ## Description
 
 I took the code for the Horiseon website and refactored it to make sure all code was in working order, the CSS matched up with the HTML and it was a DRY code/removed redundancies.
