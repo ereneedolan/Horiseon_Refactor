@@ -10,7 +10,7 @@
 
 ![Image Here](https://github.com/ereneedolan/Horiseon_Refactor/blob/main/assets/images/Horiseon%20Deployed%20pg%202.jpg?raw=true)
 
-![Image Here}()
+![Image Here}(https://github.com/ereneedolan/Horiseon_Refactor/blob/main/assets/images/Horiseon%20deployed%20pg%203.jpg?raw=true)
 
 ## Description
 
