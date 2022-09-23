@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Image Here](https://github.com/ereneedolan/Horiseon_Refactor/blob/main/assets/images/brand-awareness.png?raw=true)
+![Image Here](enter screenshot URL here)
 
 ## Description
 
