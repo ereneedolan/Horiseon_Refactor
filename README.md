@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Image Here](enter screenshot URL here)
+![Image Here](https://github.com/ereneedolan/Horiseon_Refactor/blob/main/assets/images/Horiseon.jpeg?raw=true)
 
 ## Description
 
