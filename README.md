@@ -8,6 +8,10 @@
 
 ![Image Here](https://github.com/ereneedolan/Horiseon_Refactor/blob/main/assets/images/Horiseon.jpeg?raw=true)
 
+![Image Here](https://github.com/ereneedolan/Horiseon_Refactor/blob/main/assets/images/Horiseon%20Deployed%20pg%202.jpg?raw=true)
+
+![Image Here}()
+
 ## Description
 
 I took the code for the Horiseon website and refactored it to make sure all code was in working order, the CSS matched up with the HTML and it was a DRY code/removed redundancies.
